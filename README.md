@@ -4,7 +4,7 @@ A wipe-clean insert for carrying a VR headset in a hospital. The foam in a stand
 
 Developed and tested with clinical users and used by doctors at the University of Kentucky hospital.
 
-Project page: https://siatohi80.github.io/vr-case-study/ (case-opening animation coming soon)
+**Watch the animation:** https://siatohi80.github.io/vr-case-study/ · [MP4 file](media/VR_Case_Opening_1080p.mp4)
 
 ![Open case with the formed insert](media/still_open.jpg)
 
